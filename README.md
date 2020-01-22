@@ -1,5 +1,5 @@
 # Fillit
-Third project at school 42 (group of 2).
+Third project at school 42 (team of 2).
 
 
 The goal was to find the smallest square where we could fit a given set of `Tetromino`
