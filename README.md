@@ -1,5 +1,5 @@
 # Fillit-42
-Third project of 42 school.
+Third project at school 42.
 
 
 The goal was to find the smallest square where we could fit a given set of `Tetromino`
@@ -9,4 +9,4 @@ The goal was to find the smallest square where we could fit a given set of `Tetr
 Techno : C
 
 
-Idea : Backtracking
+Programming method : Backtracking
