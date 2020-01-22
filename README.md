@@ -1,4 +1,4 @@
-# Fillit-42
+# Fillit
 Third project at school 42 (group of 2).
 
 
